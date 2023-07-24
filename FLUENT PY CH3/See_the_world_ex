@@ -1,3 +1,4 @@
+
 travel_locations = ["brazil","punta Cana", "mtl", "jamaica", "iceland"]
 
 print(travel_locations)
