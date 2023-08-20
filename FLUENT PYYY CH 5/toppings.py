@@ -25,4 +25,4 @@ for requested_topping in requested_toppings:
         print("Sorry, we don't have " + requested_topping + ".")
 
 
-print("\nFinished making your pizza!")
+print("\nFinished making your pizzas!")
